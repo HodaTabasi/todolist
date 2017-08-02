@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaseToDoList</string>
+    <string name="todo_list">TO DO LIST</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="addjob">Add Job</string>
+</resources>
